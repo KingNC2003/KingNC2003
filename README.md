@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KingNC2003
-- 👀 I’m interested in learning more about coding
-- 🌱 I’m currently learning HTML and C++
+  Im a full stack certified developer specializing in Machine learning, Quantnum Computing, and Parallel Computing
+  I've worked at IBM, Microsoft, and Amazon!
   
 
 <!---
