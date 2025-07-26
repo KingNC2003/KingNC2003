@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KingNC2003
-  Im a full stack certified developer specializing in Machine learning, Quantnum Computing, and Parallel Computing
+  Im a full stack certified developer specializing in Machine learning, Quantum Computing, and Parallel Computing
   I've worked at IBM, Microsoft, and Amazon!
   
 
